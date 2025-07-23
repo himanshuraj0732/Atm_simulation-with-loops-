@@ -1,6 +1,6 @@
 balance=90000
 while True:
-    print("\nWelcome to the ATM 💳")
+    print("\nWelcome to the ATM ")
     print("1. Check Balance")
     print("2. Deposit")
     print("3. Withdraw")
